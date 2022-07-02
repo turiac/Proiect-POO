@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\turiac\Desktop\POO\ProiectPOO\ProiectPOO\Source.cpp(1229,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\turiac\Desktop\POO\ProiectPOO\ProiectPOO\Source.cpp(1254,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\turiac\Desktop\POO\ProiectPOO\ProiectPOO\Source.cpp(1330,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ProiectPOO.vcxproj -> C:\Users\turiac\Desktop\POO\ProiectPOO\x64\Debug\ProiectPOO.exe
